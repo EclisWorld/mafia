@@ -1,0 +1,4 @@
+tarot_database.db
+venv/
+__pycache__/
+*.pyc
